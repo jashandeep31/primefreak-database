@@ -1,29 +1,11 @@
 {
 "results": [
 {
-"_id": "63f04df08d1a1ab7ffc397e0",
-"title": "Test Product",
+"_id": "63f06e7336fd863e6f6a57de",
+"title": "Test Product spoit",
 "stock": true,
-"img": "https://picsum.photos/200",
-"banner": "https://picsum.photos/200",
-"items": [
-{
-"name": "Test Item",
-"price": 100,
-"description": "Test Description",
-"period": "days",
-"_id": "63f04df08d1a1ab7ffc397e1"
-}
-],
-"created_at": "2023-02-18T04:02:56.322Z",
-"__v": 0
-},
-{
-"_id": "63f057d5434e6f13da4b622c",
-"title": "Test Product",
-"stock": true,
-"img": "https://picsum.photos/200",
-"banner": "https://picsum.photos/200",
+"img": "https://cdn.worldvectorlogo.com/logos/spotify-2.svg",
+"banner": "https://www.scdn.co/i/_global/open-graph-default.png",
 "items": [
 {
 "name": "Test Item",
@@ -31,10 +13,39 @@
 "description": "Test Description",
 "period": "days",
 "count": 1,
-"_id": "63f057d5434e6f13da4b622d"
+"_id": "63f06e7336fd863e6f6a57df"
 }
 ],
-"created_at": "2023-02-18T04:45:09.284Z",
+"created_at": "2023-02-18T06:21:39.782Z",
+"slug": "test-product",
+"__v": 0
+},
+{
+"_id": "63f075f6b04ce83e6760c803",
+"title": "Youtube Premium",
+"stock": true,
+"img": "https://cdn.worldvectorlogo.com/logos/youtube-3.svg",
+"banner": "https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk",
+"items": [
+{
+"name": "Starter",
+"price": 19,
+"description": "Premium pack for 19 days",
+"period": "weeks",
+"count": 3,
+"_id": "63f075f6b04ce83e6760c804"
+},
+{
+"name": "4 months pack",
+"price": 90,
+"description": "yt premium for 4 months your mail id",
+"period": "months",
+"count": 4,
+"_id": "63f07ef0965dcafe9b46b21d"
+}
+],
+"created_at": "2023-02-18T06:53:42.810Z",
+"slug": "youtube-premium",
 "__v": 0
 }
 ]
