@@ -15,6 +15,14 @@
 "period": "days",
 "count": 30,
 "_id": "63f1c5af8cd7106b31855f44"
+},
+  {
+"name": "Medium Pack",
+"price": 250,
+"description": "Netflix account in which we will provide you email and password valid for 3months",
+"period": "months",
+"count": 3,
+"_id": "63f1c5af8cd7106b31855f44"
 }
 ],
 "created_at": "2023-02-19T06:46:07.395Z",
